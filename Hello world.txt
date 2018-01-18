@@ -1,5 +1,0 @@
-print Hello world
-
-print Privet vsem
-
-print Hello
