@@ -1,3 +1,7 @@
 Print "Hello";
 
-Print "Hello, everybody";
+Print "Hello, everybody;"
+
+Print "Hello, my dear frend;"
+
+Print "Hello, Kate;"
