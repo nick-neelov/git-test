@@ -5,3 +5,8 @@ Print "Hello, everybody!"
 Print "Hello, my dear frend!"
 
 Print "Hello, Kate!"
+
+Print "Hello, Make!"
+
+Print "Hello, Seu!"
+
